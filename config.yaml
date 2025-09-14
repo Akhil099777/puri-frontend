@@ -1,0 +1,15 @@
+models:
+  diabetes:
+    path: "uploads/diabetes.csv"
+    target: "Outcome"
+    model: "models/diabetes_model.joblib"
+
+  heart:
+    path: "uploads/heart.csv"
+    target: "target"
+    model: "models/heart_disease_model.joblib"
+
+  kidney:
+    path: "uploads/kidney_disease.csv"
+    target: "classification"
+    model: "models/kidney_disease_model.joblib"

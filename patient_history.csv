@@ -1,0 +1,2 @@
+Patient Name,Age,Gender,Medical History,Symptoms,Top Predicted Disease,Probability
+Unknown,30,Male,,"altered_sensorium, anxiety, back_pain",Paralysis (brain hemorrhage),0.44

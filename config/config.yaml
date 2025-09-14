@@ -1,0 +1,40 @@
+app:
+  title: "Healthcare Disease Risk Predictor"
+  symptoms_list: ["fever", "nausea", "cough", "fatigue", "headache", "pain"]
+
+io:
+  uploads_dir: "uploads"
+  outputs_dir: "outputs"
+
+thresholds:
+  default: 0.5
+
+cv:
+  n_splits: 5
+  random_state: 42
+  scoring: "roc_auc"
+
+datasets:
+  diabetes: "uploads/diabetes.csv"
+  heart: "uploads/heart.csv"
+  kidney: "uploads/kidney_disease.csv"
+
+models:
+  diabetes:
+    path: "models/diabetes_model.joblib"
+    target: "Outcome"
+    threshold: 0.5
+    preventive_measures: ["Maintain healthy weight", "Regular exercise", "Monitor glucose levels"]
+    lifestyle_suggestions: ["Low sugar diet", "Routine checkups"]
+  heart:
+    path: "models/heart_disease_model.joblib"
+    target: "target"
+    threshold: 0.5
+    preventive_measures: ["Quit smoking", "Control blood pressure", "Balanced diet"]
+    lifestyle_suggestions: ["Mediterranean diet", "30 min/day activity"]
+  kidney:
+    path: "models/kidney_disease_model.joblib"
+    target: "classification"
+    threshold: 0.5
+    preventive_measures: ["Stay hydrated", "Manage diabetes/HTN"]
+    lifestyle_suggestions: ["Limit salt intake", "Avoid NSAIDs"]
