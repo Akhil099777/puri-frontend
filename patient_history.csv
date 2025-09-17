@@ -1,2 +1,13 @@
 Patient Name,Age,Gender,Medical History,Symptoms,Top Predicted Disease,Probability
 Unknown,30,Male,,"altered_sensorium, anxiety, back_pain",Paralysis (brain hemorrhage),0.44
+Unknown,30,Male,,"yellowish_skin, weight_gain",Hypothyroidism,0.22
+Unknown,30,Male,,"yellowish_skin, weight_gain, back_pain",Hypothyroidism,0.2
+Unknown,30,Male,,"yellowish_skin, weight_gain, back_pain, acidity, anxiety",Hypoglycemia,0.24
+Unknown,30,Male,,"acidity, abdominal_pain",GERD,0.2
+Akhil,23,Male,,"acidity, abdominal_pain",GERD,0.2
+Akhil,23,Male,,"blackheads, back_pain",Acne,0.54
+Unknown,23,Male,,"fatigue, fluid_overload",Varicose veins,0.15
+Unknown,23,Male,,"fatigue, fluid_overload",Varicose veins,0.15
+Unknown,23,Male,,fatigue,Varicose veins,0.16
+Unknown,30,Male,,bladder_discomfort,Urinary tract infection,0.6
+Akki,30,Male,,"dischromic_patches, excessive_hunger",Fungal infection,0.43
