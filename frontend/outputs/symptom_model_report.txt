@@ -1,0 +1,47 @@
+                                         precision    recall  f1-score   support
+
+(vertigo) Paroymsal  Positional Vertigo     1.0000    1.0000    1.0000        24
+                                   AIDS     1.0000    1.0000    1.0000        24
+                                   Acne     1.0000    1.0000    1.0000        24
+                    Alcoholic hepatitis     1.0000    1.0000    1.0000        24
+                                Allergy     1.0000    1.0000    1.0000        24
+                              Arthritis     1.0000    1.0000    1.0000        24
+                       Bronchial Asthma     1.0000    1.0000    1.0000        24
+                   Cervical spondylosis     1.0000    1.0000    1.0000        24
+                            Chicken pox     1.0000    1.0000    1.0000        24
+                    Chronic cholestasis     1.0000    1.0000    1.0000        24
+                            Common Cold     1.0000    1.0000    1.0000        24
+                                 Dengue     1.0000    1.0000    1.0000        24
+                               Diabetes     1.0000    1.0000    1.0000        24
+           Dimorphic hemmorhoids(piles)     1.0000    1.0000    1.0000        24
+                          Drug Reaction     1.0000    1.0000    1.0000        24
+                       Fungal infection     1.0000    1.0000    1.0000        24
+                                   GERD     1.0000    1.0000    1.0000        24
+                        Gastroenteritis     1.0000    1.0000    1.0000        24
+                           Heart attack     1.0000    1.0000    1.0000        24
+                            Hepatitis B     1.0000    1.0000    1.0000        24
+                            Hepatitis C     1.0000    1.0000    1.0000        24
+                            Hepatitis D     1.0000    1.0000    1.0000        24
+                            Hepatitis E     1.0000    1.0000    1.0000        24
+                           Hypertension     1.0000    1.0000    1.0000        24
+                        Hyperthyroidism     1.0000    1.0000    1.0000        24
+                           Hypoglycemia     1.0000    1.0000    1.0000        24
+                         Hypothyroidism     1.0000    1.0000    1.0000        24
+                               Impetigo     1.0000    1.0000    1.0000        24
+                               Jaundice     1.0000    1.0000    1.0000        24
+                                Malaria     1.0000    1.0000    1.0000        24
+                               Migraine     1.0000    1.0000    1.0000        24
+                        Osteoarthristis     1.0000    1.0000    1.0000        24
+           Paralysis (brain hemorrhage)     1.0000    1.0000    1.0000        24
+                    Peptic ulcer diseae     1.0000    1.0000    1.0000        24
+                              Pneumonia     1.0000    1.0000    1.0000        24
+                              Psoriasis     1.0000    1.0000    1.0000        24
+                           Tuberculosis     1.0000    1.0000    1.0000        24
+                                Typhoid     1.0000    1.0000    1.0000        24
+                Urinary tract infection     1.0000    1.0000    1.0000        24
+                         Varicose veins     1.0000    1.0000    1.0000        24
+                            hepatitis A     1.0000    1.0000    1.0000        24
+
+                               accuracy                         1.0000       984
+                              macro avg     1.0000    1.0000    1.0000       984
+                           weighted avg     1.0000    1.0000    1.0000       984
