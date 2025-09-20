@@ -11,3 +11,19 @@ Unknown,23,Male,,"fatigue, fluid_overload",Varicose veins,0.15
 Unknown,23,Male,,fatigue,Varicose veins,0.16
 Unknown,30,Male,,bladder_discomfort,Urinary tract infection,0.6
 Akki,30,Male,,"dischromic_patches, excessive_hunger",Fungal infection,0.43
+akhil,20,Male,,"back_pain, bladder_discomfort",Urinary tract infection,0.49
+akhil,20,Male,,cold_hands_and_feets,Hypothyroidism,0.28
+akhil,20,Male,,"cold_hands_and_feets, back_pain",Hypothyroidism,0.26
+Akhil,20,Male,,"cold_hands_and_feets, back_pain",Hypothyroidism,0.26
+Akhil,20,Male,,"cold_hands_and_feets, back_pain, bladder_discomfort, altered_sensorium",Paralysis (brain hemorrhage),0.42
+Akhil,20,Male,"hlo
+","cold_hands_and_feets, back_pain, bladder_discomfort, altered_sensorium",Paralysis (brain hemorrhage),0.42
+Akhil,20,Male,,"cold_hands_and_feets, back_pain, bladder_discomfort, altered_sensorium, high_fever, stiff_neck, skin_rash, loss_of_appetite",Paralysis (brain hemorrhage),0.24
+Akhil,20,Male,,"cold_hands_and_feets, back_pain, bladder_discomfort, altered_sensorium, high_fever, stiff_neck, skin_rash, loss_of_appetite",Paralysis (brain hemorrhage),0.24
+Akhil,20,Male,,"cold_hands_and_feets, back_pain, bladder_discomfort, altered_sensorium, high_fever, stiff_neck, skin_rash, loss_of_appetite, bloody_stool, patches_in_throat, puffy_face_and_eyes, weakness_in_limbs, ulcers_on_tongue, swollen_legs, irritation_in_anus, internal_itching, indigestion",Dimorphic hemmorhoids(piles),0.16
+Akhil,20,Male,,"cold_hands_and_feets, back_pain, bladder_discomfort, altered_sensorium, high_fever, stiff_neck, skin_rash, loss_of_appetite, bloody_stool, patches_in_throat, puffy_face_and_eyes, weakness_in_limbs, ulcers_on_tongue, swollen_legs, irritation_in_anus, internal_itching, indigestion, lethargy, lack_of_concentration, nodal_skin_eruptions, small_dents_in_nails",Dimorphic hemmorhoids(piles),0.13
+Akhil,20,Male,,"cold_hands_and_feets, back_pain, bladder_discomfort, altered_sensorium, high_fever, stiff_neck, skin_rash, loss_of_appetite, bloody_stool, patches_in_throat, puffy_face_and_eyes, weakness_in_limbs, ulcers_on_tongue, swollen_legs, irritation_in_anus, internal_itching, indigestion, lethargy, lack_of_concentration, nodal_skin_eruptions, small_dents_in_nails",Dimorphic hemmorhoids(piles),0.13
+Akhil,20,Male,,"cold_hands_and_feets, back_pain, bladder_discomfort, altered_sensorium, high_fever, stiff_neck, skin_rash, loss_of_appetite, bloody_stool, patches_in_throat, puffy_face_and_eyes, weakness_in_limbs, ulcers_on_tongue, swollen_legs, irritation_in_anus, internal_itching, indigestion, lethargy, lack_of_concentration, nodal_skin_eruptions, small_dents_in_nails, knee_pain, pus_filled_pimples, restlessness",Dimorphic hemmorhoids(piles),0.12
+Akhil,20,Male,,anxiety,Hypoglycemia,0.44
+Akhil,20,Male,,"anxiety, blackheads",Acne,0.42
+Akhil,20,Male,,mood_swings,Hypothyroidism,0.2
